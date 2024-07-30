@@ -10,13 +10,21 @@ format:
 
 We are a research cluster supported by the [Ken Kennedy Institute](https://kenkennedy.rice.edu/) at Rice University
 
-### Team
+## Team
 
-- [James Doss-Gollin](https://dossgollin-lab.github.io/) (Rice CEVE - PI)
-- [Avantika Gori](https://gori.blogs.rice.edu/) (Rice CEVE)
-- [Jamie Padgett](https://padgett.rice.edu/) (Rice CEVE)
-- [Noemi Vergopolan](https://waterai.earth/) (Rice EEPS)
-- [Arlei Lopes da Silva](https://cs.rice.edu/~al110/) (Rice CS)
+### PIs
+
+- [James Doss-Gollin](https://dossgollin-lab.github.io/) (CEVE)
+- [Avantika Gori](https://gori.blogs.rice.edu/) (CEVE)
+- [Jamie Padgett](https://padgett.rice.edu/) (CEVE)
+- [Noemi Vergopolan](https://waterai.earth/) (EEPS)
+- [Arlei Lopes da Silva](https://cs.rice.edu/~al110/) (CS)
+
+### Affiliated Researchers
+
+::: {.callout-note}
+## Coming soon!
+:::
 
 ### Get Involved
 
@@ -43,12 +51,13 @@ Climate change is intensifying extreme weather events, posing unprecedented risk
 ## Core Research Areas
 
 1. **Synthetic Hazard Generation:** Creating large datasets of synthetic weather patterns (e.g., hurricanes, cold waves) and employing AI for high-resolution downscaling to urban scales.
-
 2. **Infrastructure Systems Response:** Characterizing hazard impacts on critical systems (e.g., road networks, water resources) using AI- and optimization-enhanced approaches.
-
 3. **Multiscale Earth Observation and Data Assimilation:** Leveraging heterogeneous datasets from diverse sources (e.g., traffic cameras, satellite products) to improve model performance and enable real-time initialization.
-
 4. **Trustworthiness and Validation:** Advancing the transparency and reliability of physics-informed AI methods through rigorous evaluation of their ability to capture relevant dynamics and outcomes.
+
+## Current Focus: Urban Resilience in Houston
+
+Our initial testbed addresses road network flooding from tropical cyclones in Houston, Texas. This project serves as a foundation for developing approaches applicable to diverse urban environments and climate-related challenges.
 
 ## Commitment to Open Science
 
@@ -57,10 +66,6 @@ We are dedicated to advancing climate resilience through collaborative efforts:
 - Developing open-source software and tools
 - Ensuring transparency and reproducibility in our methodologies
 - Disseminating findings to both academic and public spheres
-
-## Current Focus: Urban Resilience in Houston
-
-Our initial testbed addresses road network flooding from tropical cyclones in Houston, Texas. This project serves as a foundation for developing approaches applicable to diverse urban environments and climate-related challenges.
 
 ## Publications
 
