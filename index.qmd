@@ -28,7 +28,7 @@ For questions, contact [James](mailto:jdossgollin@rice.edu).
 ::: {.column width="2.5%"}
 :::
 ::: {.column width="65%"}
-# AI for Climate Risk and Resilience (AI4CRRR)
+# AI for Climate Risk and Resilience at Rice
 
 Our research cluster integrates artificial intelligence and machine learning with physics-based models to advance our understanding of climate risks and enhance infrastructure resilience. We focus on developing computationally efficient, high-resolution models to inform the management of complex, interconnected systems facing extreme weather in a changing climate.
 
