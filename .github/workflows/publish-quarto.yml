@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
 
     # run only on upstream, not on downstream
-    if: github.repository == 'dossgollin-lab/dossgollin-lab.github.io'
+    if: github.repository == 'dossgollin-lab/ai4climaterrr'
 
     steps:
       - name: Check out repository
