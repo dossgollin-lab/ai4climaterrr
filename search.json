@@ -2,49 +2,49 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "AI for Climate Risk and Resilience (AI4CRRR)",
+    "title": "AI for Climate Risk and Resilience at Rice",
     "section": "",
     "text": "We are a research cluster supported by the Ken Kennedy Institute at Rice University\n\n\n\nJames Doss-Gollin (Rice CEVE - PI)\nAvantika Gori (Rice CEVE)\nJamie Padgett (Rice CEVE)\nNoemi Vergopolan (Rice EEPS)\nArlei Lopes da Silva (Rice CS)\n\n\n\n\nWe are scheduling monthly meetings open to the Rice community. More information will be posted here soon. For questions, contact James.\n\n\n\n\n\n\n\nOur research cluster integrates artificial intelligence and machine learning with physics-based models to advance our understanding of climate risks and enhance infrastructure resilience. We focus on developing computationally efficient, high-resolution models to inform the management of complex, interconnected systems facing extreme weather in a changing climate.\n\n\nClimate change is intensifying extreme weather events, posing unprecedented risks to urban infrastructure and communities. Traditional models, while valuable, often face limitations in resolution, computational efficiency, or geographic transferability. Our work addresses these challenges by:\n\nDeveloping AI-enhanced models that improve speed, resolution, and adaptability\nSpanning scales from regional weather patterns to local infrastructure impacts\nEnhancing accessibility and actionability of climate risk assessments for stakeholders\n\n\n\n\n\nSynthetic Hazard Generation: Creating large datasets of synthetic weather patterns (e.g., hurricanes, cold waves) and employing AI for high-resolution downscaling to urban scales.\nInfrastructure Systems Response: Characterizing hazard impacts on critical systems (e.g., road networks, water resources) using AI- and optimization-enhanced approaches.\nMultiscale Earth Observation and Data Assimilation: Leveraging heterogeneous datasets from diverse sources (e.g., traffic cameras, satellite products) to improve model performance and enable real-time initialization.\nTrustworthiness and Validation: Advancing the transparency and reliability of physics-informed AI methods through rigorous evaluation of their ability to capture relevant dynamics and outcomes.\n\n\n\n\nWe are dedicated to advancing climate resilience through collaborative efforts:\n\nDeveloping open-source software and tools\nEnsuring transparency and reproducibility in our methodologies\nDisseminating findings to both academic and public spheres\n\n\n\n\nOur initial testbed addresses road network flooding from tropical cyclones in Houston, Texas. This project serves as a foundation for developing approaches applicable to diverse urban environments and climate-related challenges.\n\n\n\n\n\n\n\n\n\nComing soon!"
   },
   {
     "objectID": "index.html#ai4crrr",
     "href": "index.html#ai4crrr",
-    "title": "AI for Climate Risk and Resilience (AI4CRRR)",
+    "title": "AI for Climate Risk and Resilience at Rice",
     "section": "",
     "text": "We are a research cluster supported by the Ken Kennedy Institute at Rice University\n\n\n\nJames Doss-Gollin (Rice CEVE - PI)\nAvantika Gori (Rice CEVE)\nJamie Padgett (Rice CEVE)\nNoemi Vergopolan (Rice EEPS)\nArlei Lopes da Silva (Rice CS)\n\n\n\n\nWe are scheduling monthly meetings open to the Rice community. More information will be posted here soon. For questions, contact James."
   },
   {
     "objectID": "index.html#research-significance",
     "href": "index.html#research-significance",
-    "title": "AI for Climate Risk and Resilience (AI4CRRR)",
+    "title": "AI for Climate Risk and Resilience at Rice",
     "section": "",
     "text": "Climate change is intensifying extreme weather events, posing unprecedented risks to urban infrastructure and communities. Traditional models, while valuable, often face limitations in resolution, computational efficiency, or geographic transferability. Our work addresses these challenges by:\n\nDeveloping AI-enhanced models that improve speed, resolution, and adaptability\nSpanning scales from regional weather patterns to local infrastructure impacts\nEnhancing accessibility and actionability of climate risk assessments for stakeholders"
   },
   {
     "objectID": "index.html#core-research-areas",
     "href": "index.html#core-research-areas",
-    "title": "AI for Climate Risk and Resilience (AI4CRRR)",
+    "title": "AI for Climate Risk and Resilience at Rice",
     "section": "",
     "text": "Synthetic Hazard Generation: Creating large datasets of synthetic weather patterns (e.g., hurricanes, cold waves) and employing AI for high-resolution downscaling to urban scales.\nInfrastructure Systems Response: Characterizing hazard impacts on critical systems (e.g., road networks, water resources) using AI- and optimization-enhanced approaches.\nMultiscale Earth Observation and Data Assimilation: Leveraging heterogeneous datasets from diverse sources (e.g., traffic cameras, satellite products) to improve model performance and enable real-time initialization.\nTrustworthiness and Validation: Advancing the transparency and reliability of physics-informed AI methods through rigorous evaluation of their ability to capture relevant dynamics and outcomes."
   },
   {
     "objectID": "index.html#commitment-to-open-science",
     "href": "index.html#commitment-to-open-science",
-    "title": "AI for Climate Risk and Resilience (AI4CRRR)",
+    "title": "AI for Climate Risk and Resilience at Rice",
     "section": "",
     "text": "We are dedicated to advancing climate resilience through collaborative efforts:\n\nDeveloping open-source software and tools\nEnsuring transparency and reproducibility in our methodologies\nDisseminating findings to both academic and public spheres"
   },
   {
     "objectID": "index.html#current-focus-urban-resilience-in-houston",
     "href": "index.html#current-focus-urban-resilience-in-houston",
-    "title": "AI for Climate Risk and Resilience (AI4CRRR)",
+    "title": "AI for Climate Risk and Resilience at Rice",
     "section": "",
     "text": "Our initial testbed addresses road network flooding from tropical cyclones in Houston, Texas. This project serves as a foundation for developing approaches applicable to diverse urban environments and climate-related challenges."
   },
   {
     "objectID": "index.html#publications",
     "href": "index.html#publications",
-    "title": "AI for Climate Risk and Resilience (AI4CRRR)",
+    "title": "AI for Climate Risk and Resilience at Rice",
     "section": "",
     "text": "Coming soon!"
   }
