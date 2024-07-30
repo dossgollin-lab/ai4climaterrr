@@ -5,9 +5,9 @@ project:
 
 website:
   page-navigation: true
-  title: "Doss-Gollin Lab @ Rice CEVE"
-  site-url: https://dossgollin-lab.github.io/
-  repo-url: https://www.github.com/dossgollin-lab/dossgollin-lab.github.io
+  title: "AI for Climate Risk & Resilience @ Rice"
+  site-url: https://dossgollin-lab.github.io/ai4climaterrr/
+  repo-url: https://www.github.com/dossgollin-lab/ai4climaterrr
   repo-actions: [issue]
   open-graph: true
   favicon: _assets/img/logos/logo.ico
@@ -20,32 +20,8 @@ website:
     left: |
       View the source [on GitHub]({{< var website.repo-url >}})
 
-  navbar:
-    right:
-      - text: "People"
-        href: people/index.qmd
-      - text: "Publications"
-        href: publications/index.qmd
-      - text: "Research"
-        href: research.qmd
-      - text: "Teaching"
-        href: teaching.qmd
-      - text: "Opportunities"
-        href: joinus.qmd
-      - text: "Contact"
-        href: contact.qmd
-      - text: Links
-        menu:  
-        - text: "Lab Guide"
-          href: https://dossgollin-lab.github.io/lab-guide/
-        - icon: github
-          href: https://github.com/dossgollin-lab/
-
-
 format:
   html:
-    #theme: _assets/theme/theme-rice.scss
-    #css: styles.css
     theme: [sandstone, _assets/theme/theme-rice.scss]
     toc: false
     anchor-sections: true
@@ -56,7 +32,7 @@ format:
     date-format: long
 
 # references
-bibliography: _bibliography/library.bib
+bibliography: references.bib
 csl: _assets/references/american-geophysical-union.csl
 
 link-external-newwindow: true
