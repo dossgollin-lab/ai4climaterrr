@@ -8,7 +8,7 @@ format:
 ::: {.column width="32.5%"}
 ## AI4CRRR
 
-We are a research cluster supported by the [Ken Kennedy Institute](https://kenkennedy.rice.edu/) at Rice University
+We are a research cluster supported by the [Ken Kennedy Institute](https://kenkennedy.rice.edu/) at Rice University.
 
 ## Team
 
