@@ -3,6 +3,9 @@ project:
   preview:
     port: 4200
 
+resources:
+  - CNAME
+
 website:
   page-navigation: true
   title: "AI for Climate Risk & Resilience @ Rice"
@@ -18,7 +21,7 @@ website:
 
   page-footer:
     left: |
-      View the source [on GitHub]({{< var website.repo-url >}})
+      View the source [on GitHub](https://www.github.com/dossgollin-lab/ai4climaterrr).
 
 format:
   html:
