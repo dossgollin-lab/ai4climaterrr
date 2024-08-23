@@ -4,8 +4,8 @@ format:
     page-layout: full
 ---
 
-:::: {.columns}
-::: {.column width="32.5%"}
+:::: {.grid}
+::: {.g-col-4}
 ## AI4CRRR
 
 We are a research cluster supported by the [Ken Kennedy Institute](https://kenkennedy.rice.edu/) at Rice University.
@@ -14,28 +14,19 @@ We are a research cluster supported by the [Ken Kennedy Institute](https://kenke
 
 ### PIs
 
-- [James Doss-Gollin](https://dossgollin-lab.github.io/) (CEVE)
+- [James Doss-Gollin](https://dossgollin-lab.github.io/) (CEVE, Lead PI)
 - [Avantika Gori](https://gori.blogs.rice.edu/) (CEVE)
 - [Jamie Padgett](https://padgett.rice.edu/) (CEVE)
 - [Noemi Vergopolan](https://waterai.earth/) (EEPS)
 - [Arlei Lopes da Silva](https://cs.rice.edu/~al110/) (CS)
 
-### Affiliated Researchers
-
-::: {.callout-note}
-## Coming soon!
-:::
-
 ### Get Involved
 
-We are scheduling monthly meetings open to the Rice community.
-More information will be posted here soon.
-For questions, contact [James](mailto:jdossgollin@rice.edu).
+Monthly research discussions, open to the Rice community, will be held September 25, October 23, and November 20 at 12:00 noon.
+For additional information, please contact [James](mailto:jdossgollin@rice.edu).
 
 :::
-::: {.column width="2.5%"}
-:::
-::: {.column width="65%"}
+::: {.g-col-8}
 # AI for Climate Risk and Resilience at Rice
 
 Our research cluster integrates artificial intelligence and machine learning with physics-based models to advance our understanding of climate risks and enhance infrastructure resilience. We focus on developing computationally efficient, high-resolution models to inform the management of complex, interconnected systems facing extreme weather in a changing climate.
@@ -57,9 +48,10 @@ Climate change is intensifying extreme weather events, posing unprecedented risk
 
 ## Current Focus: Urban Resilience in Houston
 
-Our initial testbed addresses road network flooding from tropical cyclones in Houston, Texas. This project serves as a foundation for developing approaches applicable to diverse urban environments and climate-related challenges.
+Our initial project addresses road network flooding from tropical cyclones in Houston, Texas.
+This project serves as a foundation for developing approaches applicable to diverse urban environments and climate-related challenges.
 
-## Commitment to Open Science
+## Open Science
 
 We are dedicated to advancing climate resilience through collaborative efforts:
 
