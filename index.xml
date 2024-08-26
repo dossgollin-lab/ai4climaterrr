@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>AI for Climate Risk &amp; Resilience @ Rice</title>
+<link>https://ai4climaterrr.rice.edu/</link>
+<atom:link href="https://ai4climaterrr.rice.edu/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.5.43</generator>
+<lastBuildDate>Mon, 26 Aug 2024 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Rice News Coverage of OpenSafe Fusion</title>
+  <link>https://ai4climaterrr.rice.edu/posts/2024-08-26-demo.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Rice University recently highlighted research from our AI for Climate Risk and Resilience at Rice (AI4CRRR) cluster. The feature story covers work led by cluster co-PI Jamie Padgett, focusing on an AI-driven system for real-time sensing of flooded roads.</p>
+<p>The featured study introduces OpenSafe Fusion, an automated data fusion framework that leverages existing public data sources to predict road flooding conditions. By combining insights from traffic alerts, cameras, and traffic speed data, the system demonstrated promising results in tests using historical data from Hurricane Harvey. We hope this approach can significantly advance flood situational awareness without requiring substantial investment in new infrastructure, potentially improving public safety and mobility during increasingly frequent urban flooding events.</p>
+<p>For more details, read the <a href="https://news.rice.edu/news/2024/rice-engineers-develop-ai-system-real-time-sensing-flooded-roads">full story</a> or access the <a href="https://www.sciencedirect.com/science/article/abs/pii/S095183202400440X?via%3Dihub">research study</a>.</p>
+
+
+
+ ]]></description>
+  <guid>https://ai4climaterrr.rice.edu/posts/2024-08-26-demo.html</guid>
+  <pubDate>Mon, 26 Aug 2024 05:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
