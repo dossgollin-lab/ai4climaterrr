@@ -14,6 +14,9 @@ website:
   repo-actions: [issue]
   open-graph: true
   favicon: _assets/img/logos/logo.ico
+  navbar:
+    left:
+      - text: ""
 
   search:
     location: navbar

@@ -1,4 +1,24 @@
 ---
+listing:
+    id: news-listings
+    type: table
+    contents:
+        - "posts/*.qmd"
+        - "posts/*.md"
+    sort:
+        - "date desc"
+        - "title desc"
+    table-striped: true
+    table-hover: true
+    page-size: 8
+    categories: false
+    fields: [title, date]
+    field-display-names: 
+        title: Title
+        date: Date
+    feed: true
+    filter-ui: false
+
 format: 
   html:
     page-layout: full
@@ -20,6 +40,12 @@ We are a research cluster supported by the [Ken Kennedy Institute](https://kenke
 - [Noemi Vergopolan](https://waterai.earth/) (EEPS)
 - [Arlei Lopes da Silva](https://cs.rice.edu/~al110/) (CS)
 
+### Researchers
+
+::: {.callout-note}
+## Coming soon!
+:::
+
 ### Get Involved
 
 Monthly research discussions, open to the Rice community, will be held September 25, October 23, and November 20 at 12:00 noon.
@@ -29,40 +55,23 @@ For additional information, please contact [James](mailto:jdossgollin@rice.edu).
 ::: {.g-col-8}
 # AI for Climate Risk and Resilience at Rice
 
-Our research cluster integrates artificial intelligence and machine learning with physics-based models to advance our understanding of climate risks and enhance infrastructure resilience. We focus on developing computationally efficient, high-resolution models to inform the management of complex, interconnected systems facing extreme weather in a changing climate.
 
-## Research Significance
+Climate change is intensifying extreme weather events, posing unprecedented risks to urban infrastructure and communities.
+Traditional models, while valuable, often face limitations in resolution, computational efficiency, or geographic transferability.
 
-Climate change is intensifying extreme weather events, posing unprecedented risks to urban infrastructure and communities. Traditional models, while valuable, often face limitations in resolution, computational efficiency, or geographic transferability. Our work addresses these challenges by:
+Our research cluster integrates artificial intelligence and machine learning with physics-based models to advance understanding of climate risks and enhance infrastructure resilience.
+We are working to develop open-source, computationally efficient, and high-resolution models to inform the management of complex, interconnected systems facing extreme weather in a changing climate.
+Key focus areas include:
 
-- Developing AI-enhanced models that improve speed, resolution, and adaptability
-- Spanning scales from regional weather patterns to local infrastructure impacts
-- Enhancing accessibility and actionability of climate risk assessments for stakeholders
+1. **Synthetic Hazard Generation:** Creating large datasets of synthetic weather patterns and employing AI for high-resolution downscaling to urban scales.
+2. **Infrastructure Systems Response:** Characterizing hazard impacts on critical systems using AI- and optimization-enhanced approaches.
+3. **Multiscale Earth Observation and Data Assimilation:** Leveraging heterogeneous datasets from diverse sources to improve model performance and enable real-time initialization.
+4. **Trustworthiness and Validation:** Advancing the transparency and reliability of physics-informed AI methods through rigorous evaluation.
 
-## Core Research Areas
 
-1. **Synthetic Hazard Generation:** Creating large datasets of synthetic weather patterns (e.g., hurricanes, cold waves) and employing AI for high-resolution downscaling to urban scales.
-2. **Infrastructure Systems Response:** Characterizing hazard impacts on critical systems (e.g., road networks, water resources) using AI- and optimization-enhanced approaches.
-3. **Multiscale Earth Observation and Data Assimilation:** Leveraging heterogeneous datasets from diverse sources (e.g., traffic cameras, satellite products) to improve model performance and enable real-time initialization.
-4. **Trustworthiness and Validation:** Advancing the transparency and reliability of physics-informed AI methods through rigorous evaluation of their ability to capture relevant dynamics and outcomes.
+## News
 
-## Current Focus: Urban Resilience in Houston
-
-Our initial project addresses road network flooding from tropical cyclones in Houston, Texas.
-This project serves as a foundation for developing approaches applicable to diverse urban environments and climate-related challenges.
-
-## Open Science
-
-We are dedicated to advancing climate resilience through collaborative efforts:
-
-- Developing open-source software and tools
-- Ensuring transparency and reproducibility in our methodologies
-- Disseminating findings to both academic and public spheres
-
-## Publications
-
-::: {.callout-note}
-## Coming soon!
+::: {#news-listings}
 :::
 
 :::
