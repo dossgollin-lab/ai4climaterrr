@@ -1,7 +1,5 @@
 on:
-  repository_dispatch:
   push:
-    branches: [master]
 
 name: Render and Publish
 
@@ -13,9 +11,6 @@ permissions:
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
-
-    # run only on upstream, not on downstream
-    if: github.repository == 'dossgollin-lab/ai4climaterrr'
 
     steps:
       - name: Check out repository
