@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "posts/2024-08-26-demo.html",
+    "href": "posts/2024-08-26-demo.html",
+    "title": "Rice News Coverage of OpenSafe Fusion",
+    "section": "",
+    "text": "Rice University recently highlighted research from our AI for Climate Risk and Resilience at Rice (AI4CRRR) cluster. The feature story covers work led by cluster co-PI Jamie Padgett, focusing on an AI-driven system for real-time sensing of flooded roads.\nThe featured study introduces OpenSafe Fusion, an automated data fusion framework that leverages existing public data sources to predict road flooding conditions. By combining insights from traffic alerts, cameras, and traffic speed data, the system demonstrated promising results in tests using historical data from Hurricane Harvey. We hope this approach can significantly advance flood situational awareness without requiring substantial investment in new infrastructure, potentially improving public safety and mobility during increasingly frequent urban flooding events.\nFor more details, read the full story or access the research study."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "AI for Climate Risk and Resilience at Rice",
@@ -26,12 +33,5 @@
     "title": "AI for Climate Risk and Resilience at Rice",
     "section": "",
     "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n\n\n\n\n\nTitle\n\n\nDate\n\n\n\n\n\n\nRice News Coverage of OpenSafe Fusion\n\n\nAugust 26, 2024\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/2024-08-26-demo.html",
-    "href": "posts/2024-08-26-demo.html",
-    "title": "Rice News Coverage of OpenSafe Fusion",
-    "section": "",
-    "text": "Rice University recently highlighted research from our AI for Climate Risk and Resilience at Rice (AI4CRRR) cluster. The feature story covers work led by cluster co-PI Jamie Padgett, focusing on an AI-driven system for real-time sensing of flooded roads.\nThe featured study introduces OpenSafe Fusion, an automated data fusion framework that leverages existing public data sources to predict road flooding conditions. By combining insights from traffic alerts, cameras, and traffic speed data, the system demonstrated promising results in tests using historical data from Hurricane Harvey. We hope this approach can significantly advance flood situational awareness without requiring substantial investment in new infrastructure, potentially improving public safety and mobility during increasingly frequent urban flooding events.\nFor more details, read the full story or access the research study."
   }
 ]
