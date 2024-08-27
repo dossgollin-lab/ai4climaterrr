@@ -10,11 +10,6 @@ permissions:
   contents: write
   pages: write
 
-# https://github.com/marketplace/actions/setup-miniconda
-defaults:
-      run:
-        shell: bash -l {0}
-
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
@@ -30,22 +25,6 @@ jobs:
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
-
-      - name: Update bibliography
-        run: |
-          cd _bibliography
-          git branch -u origin/master master
-          cd ..
-          git submodule update --remote --recursive
-
-      - name: Set up Conda Environment
-        uses: conda-incubator/setup-miniconda@v2
-        with:
-          activate-environment: dossgollin-lab
-          environment-file: _environment.yml
-
-      - name: Generate Publication Files
-        run: python bibtex_to_qmd.py
 
       - name: Publish to GitHub Pages (and render)
         uses: quarto-dev/quarto-actions/publish@v2
