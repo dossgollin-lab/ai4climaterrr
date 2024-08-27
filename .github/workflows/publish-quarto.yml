@@ -2,7 +2,7 @@ on:
   push:
     branches:
       - master
-  workflow_dispatch:  # Allows manual triggering
+  workflow_dispatch:
 
 name: Render and Publish
 
@@ -16,6 +16,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Check if workflow runs
+        run: echo "Workflow is running"
+
       - name: Check out repository
         uses: actions/checkout@v4
         with:
