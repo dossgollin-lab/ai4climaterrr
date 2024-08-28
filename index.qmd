@@ -68,6 +68,7 @@ Key focus areas include:
 3. **Multiscale Earth Observation and Data Assimilation:** Leveraging heterogeneous datasets from diverse sources to improve model performance and enable real-time initialization.
 4. **Trustworthiness and Validation:** Advancing the transparency and reliability of physics-informed AI methods through rigorous evaluation.
 
+Our initial pilot project focuses on real-time flood forecasting and transportation accessibility in the Houston, TX region.
 
 ## News
 
