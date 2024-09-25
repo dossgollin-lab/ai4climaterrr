@@ -30,6 +30,8 @@ format:
 
 We are a research cluster supported by the [Ken Kennedy Institute](https://kenkennedy.rice.edu/) at Rice University.
 
+![AI4CRRR group photo, 2024-09-25](./_assets/img/2024-09-25-group.jpeg)
+
 ## Team
 
 ### PIs
@@ -40,16 +42,21 @@ We are a research cluster supported by the [Ken Kennedy Institute](https://kenke
 - [Noemi Vergopolan](https://waterai.earth/) (EEPS)
 - [Arlei Lopes da Silva](https://cs.rice.edu/~al110/) (CS)
 
-### Researchers
+### Affiliates
 
-::: {.callout-note}
-## Coming soon!
-:::
+- [Sylvia Dee](https://sylviadeeclimate.org/) (EEPS)
+- [Xinwu Qian](https://mobix.blogs.rice.edu/) (CEVE)
+- [Lu Zhang](https://luzhanghpp.github.io/) (CMOR)
+
+### Fellows
+
+[Yanmo Weng](https://riceacademy.rice.edu/junior-fellows/dr-yanmo-weng) is a postdoctoral fellow and coordinator of AI4CRRR.
+
 
 ### Get Involved
 
 Monthly research discussions, open to the Rice community, will be held September 25, October 23, and November 20 at 12:00 noon.
-For additional information, please contact [James](mailto:jdossgollin@rice.edu).
+For additional information, please contact [James](mailto:jdossgollin@rice.edu) or [Yanmo](mailto:yanmow@rice.edu).
 
 :::
 ::: {.g-col-8}
