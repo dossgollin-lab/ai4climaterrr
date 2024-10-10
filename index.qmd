@@ -26,11 +26,11 @@ format:
 
 :::: {.grid}
 ::: {.g-col-4}
-## AI4CRRR
+## AI4ClimateRRR
 
 We are a research cluster supported by the [Ken Kennedy Institute](https://kenkennedy.rice.edu/) at Rice University.
 
-![AI4CRRR group photo, 2024-09-25](./_assets/img/2024-09-25-group.jpeg)
+![AI4ClimateRRR group photo, 2024-09-25](./_assets/img/2024-09-25-group.jpeg)
 
 ## Team
 
@@ -39,8 +39,8 @@ We are a research cluster supported by the [Ken Kennedy Institute](https://kenke
 - [James Doss-Gollin](https://dossgollin-lab.github.io/) (CEVE, Lead PI)
 - [Avantika Gori](https://gori.blogs.rice.edu/) (CEVE)
 - [Jamie Padgett](https://padgett.rice.edu/) (CEVE)
-- [Noemi Vergopolan](https://waterai.earth/) (EEPS)
 - [Arlei Lopes da Silva](https://cs.rice.edu/~al110/) (CS)
+- [Noemi Vergopolan](https://waterai.earth/) (EEPS)
 
 ### Affiliates
 
@@ -50,8 +50,7 @@ We are a research cluster supported by the [Ken Kennedy Institute](https://kenke
 
 ### Fellows
 
-[Yanmo Weng](https://riceacademy.rice.edu/junior-fellows/dr-yanmo-weng) is a postdoctoral fellow and coordinator of AI4CRRR.
-
+[Yanmo Weng](https://riceacademy.rice.edu/junior-fellows/dr-yanmo-weng) is a postdoctoral fellow and the cluster coordinator.
 
 ### Get Involved
 
