@@ -54,6 +54,12 @@ We are a research cluster supported by the [Ken Kennedy Institute](https://kenke
 
 ### Get Involved
 
+::: {.callout-note}
+## Sign up
+
+Join the [mailing list](https://mailman.rice.edu/mailman/listinfo/ai4climaterrr) to receive updates and announcements.
+:::
+
 Monthly research discussions, open to the Rice community, will be held September 25, October 23, and November 20 at 12:00 noon.
 For additional information, please contact [James](mailto:jdossgollin@rice.edu) or [Yanmo](mailto:yanmow@rice.edu).
 
