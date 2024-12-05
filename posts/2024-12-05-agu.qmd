@@ -1,0 +1,32 @@
+---
+title: "AI4ClimateRRR at AGU 2024"
+date: 2024-12-05
+---
+
+Researchers from the AI4ClimateRRR cluster will be at AGU 2024 in Washington, DC.!
+We look forward to seeing you there.
+
+### Monday
+
+- eLightning Session: [NH14C - Multihazard Flood Modeling: From Inland to Coast I](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/240862)
+
+### Tuesday
+
+- Talk: [GC24H-01Assessing and Managing Climate Risks to Electricity Systems in an Era of Climate Change and Energy Transition](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1711820)
+- Talk: [NH23G-06TxRAIN-Observational: A Hierarchical Bayesian Spatial Framework to Assess Nonstationary Rainfall Intensity, Frequency, and Duration in Texas](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1624973)
+- Poster: [GC23D-0279Graph Residual Transformer + Gated Recurrent Unit (GRU) for Global Numerical Weather Prediction](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1709468)
+- Talk: [H23U-08Improving Vegetation Realism in Earth System Models through Satellite Observations](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1745761)
+- Poster Session: [NH23A - Advancements in Urban Water Systems for Resilient, Sustainable, and Equitable Communities](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/226684)
+
+### Thursday
+
+- Poster Session: [NH41C - Hybrid Modeling and Digital Twin Systems for Flood Hazard Prediction and Risk Assessment at Different Spatial Scales](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/224843)
+- Poster: [NH41C-2328Pluvial Flood Emulation with Hydraulics-informed Message Passing](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1638085)
+- Talk: [PP42B-04Last Millennium Changes in Mississippi River Basin Hydroclimate Driven by Anthropogenic Forcing and Atmospheric Dynamics](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1568143)
+- Poster Session: [NH41D - Multihazard Flood Modeling: From Inland to Coast](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/224642)
+- Poster: [NH43C-2415Isolating Contributing Factors of Coastal Water Levels for Improved Probabilistic Synthetic Data: An Innovative Approach](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1711916)
+
+### Friday
+
+- Talk: [NH51A-01Advancing Urban Flood Hazard Characterization through Machine Learning: Challenges and Opportunities](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1711605)
+- Talk: [GC54B-01Advancing Water and Food Security with AI and Hyper-Resolution Soil Moisture Data](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1737431)

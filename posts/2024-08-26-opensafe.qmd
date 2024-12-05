@@ -1,5 +1,5 @@
 ---
-title: "Rice News Coverage of OpenSafe Fusion"
+title: "Coverage: Rice engineers develop AI system for real-time sensing of flooded roads"
 date: 2024-08-26
 ---
 

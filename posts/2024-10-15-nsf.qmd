@@ -1,0 +1,11 @@
+---
+title: "Coverage: Rice-led research will leverage responsible AI to enhance coastal communities’ severe storm response"
+date: 2024-10-15
+---
+
+Rice University recently highlighted a new research award for our cluster.
+
+The $1.5M NSF-funded project, led by cluster co-PI Jamie Padgett and including co-PI Avantika Gori, will develop OpenSafe.AI - an intelligent system that combines responsible AI with hazard modeling to provide real-time situational awareness during severe coastal storms.
+The framework aims to support emergency responders and communities with equitable, data-driven insights for disaster preparation and response.
+
+For more, please read the [full story](https://news.rice.edu/news/2024/rice-led-research-will-leverage-responsible-ai-enhance-coastal-communities-severe-storm).
