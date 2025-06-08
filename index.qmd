@@ -1,23 +1,23 @@
 ---
-listing:
-    id: news-listings
-    type: table
-    contents:
-        - "posts/*.qmd"
-        - "posts/*.md"
-    sort:
-        - "date desc"
-        - "title desc"
-    table-striped: true
-    table-hover: true
-    page-size: 8
-    categories: false
-    fields: [title, date]
-    field-display-names: 
-        title: Title
-        date: Date
-    feed: true
-    filter-ui: false
+#listing:
+#    id: news-listings
+#    type: table
+#    contents:
+#        - "posts/*.qmd"
+#        - "posts/*.md"
+#    sort:
+#        - "date desc"
+#        - "title desc"
+#    table-striped: true
+#    table-hover: true
+#    page-size: 8
+#    categories: false
+#    fields: [title, date]
+#    field-display-names: 
+#        title: Title
+#        date: Date
+#    feed: true
+#    filter-ui: false
 
 format: 
   html:
@@ -52,16 +52,6 @@ We are a research cluster supported by the [Ken Kennedy Institute](https://kenke
 
 [Yanmo Weng](https://riceacademy.rice.edu/junior-fellows/dr-yanmo-weng) is a postdoctoral fellow and the cluster coordinator.
 
-### Get Involved
-
-::: {.callout-note}
-## Sign up
-
-We invite the Rice community to join the [mailing list](https://mailman.rice.edu/mailman/listinfo/ai4climaterrr) to receive updates and announcements.
-:::
-
-Monthly research discussions, open to the Rice community, will be held September 25, October 23, and November 20 at 12:00 noon.
-For additional information, please contact [James](mailto:jdossgollin@rice.edu) or [Yanmo](mailto:yanmow@rice.edu).
 
 :::
 ::: {.g-col-8}
@@ -82,10 +72,14 @@ Key focus areas include:
 
 Our initial pilot project focuses on real-time flood forecasting and transportation accessibility in the Houston, TX region.
 
-## News
+## Get Involved
 
-::: {#news-listings}
-:::
+### Sign up
 
-:::
-::::
+We invite the Rice community to join the [mailing list](https://groups.google.com/a/rice.edu/g/ai4climaterrr) to receive updates and announcements.
+
+### Summer 2025
+
+During summer 2025, we will host internal research presentations.
+All members and affiliates, including students, are welcome to join and to present.
+Join the [mailing list](https://groups.google.com/a/rice.edu/g/ai4climaterrr) to receive updates.
