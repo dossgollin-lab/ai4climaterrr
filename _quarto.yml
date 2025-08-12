@@ -8,7 +8,7 @@ resources:
 
 website:
   page-navigation: true
-  title: "AI for Climate Risk & Resilience @ Rice"
+  title: "Advancing AI for Climate Risk and Urban Resilience"
   site-url: https://ai4climaterrr.rice.edu
   repo-url: https://www.github.com/dossgollin-lab/ai4climaterrr
   repo-actions: [issue]
