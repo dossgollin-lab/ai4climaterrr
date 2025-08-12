@@ -47,6 +47,7 @@ We are a research cluster supported by the [Ken Kennedy Institute](https://kenke
 
 - [Xinwu Qian](https://mobix.blogs.rice.edu/) (CEVE)
 - [Lu Zhang](https://luzhanghpp.github.io/) (CMOR)
+- [Sang-ri Yi](https://uncertainty.blogs.rice.edu/) (CEVE)
 
 ### Fellows
 
