@@ -34,25 +34,24 @@ We are a research cluster supported by the [Ken Kennedy Institute](https://kenke
 
 ## Team
 
-### PIs
+### PI
 
-- [James Doss-Gollin](https://dossgollin-lab.github.io/) (CEVE, Lead PI)
-- [Avantika Gori](https://gori.blogs.rice.edu/) (CEVE)
-- [Jamie Padgett](https://padgett.rice.edu/) (CEVE)
-- [Arlei Lopes da Silva](https://cs.rice.edu/~al110/) (CS)
-- [Noemi Vergopolan](https://waterai.earth/) (EEPS)
+[James Doss-Gollin](https://dossgollin-lab.github.io/) (CEVE)
+
+### Co-Is
+
 - [Sylvia Dee](https://sylviadeeclimate.org/) (EEPS)
+- [Avantika Gori](https://gori.blogs.rice.edu/) (CEVE)
+- [Arlei Lopes da Silva](https://cs.rice.edu/~al110/) (CS)
+- [Jamie Padgett](https://padgett.rice.edu/) (CEVE)
+- [Noemi Vergopolan](https://waterai.earth/) (EEPS)
 
-### Affiliates
+### Associates
 
+- [Kathy Ensor](https://ensor.rice.edu/) (STAT)
 - [Xinwu Qian](https://mobix.blogs.rice.edu/) (CEVE)
-- [Lu Zhang](https://luzhanghpp.github.io/) (CMOR)
 - [Sang-ri Yi](https://uncertainty.blogs.rice.edu/) (CEVE)
-
-### Fellows
-
-[Yanmo Weng](https://riceacademy.rice.edu/junior-fellows/dr-yanmo-weng) is a postdoctoral fellow and the cluster coordinator.
-
+- [Lu Zhang](https://luzhanghpp.github.io/) (CMOR)
 
 :::
 ::: {.g-col-8}
@@ -78,9 +77,3 @@ Our initial pilot project focuses on real-time flood forecasting and transportat
 ### Sign up
 
 We invite the Rice community to join the [mailing list](https://groups.google.com/a/rice.edu/g/ai4climaterrr) to receive updates and announcements.
-
-### Summer 2025
-
-During summer 2025, we will host internal research presentations.
-All members and affiliates, including students, are welcome to join and to present.
-Join the [mailing list](https://groups.google.com/a/rice.edu/g/ai4climaterrr) to receive updates.
