@@ -1,24 +1,4 @@
 ---
-#listing:
-#    id: news-listings
-#    type: table
-#    contents:
-#        - "posts/*.qmd"
-#        - "posts/*.md"
-#    sort:
-#        - "date desc"
-#        - "title desc"
-#    table-striped: true
-#    table-hover: true
-#    page-size: 8
-#    categories: false
-#    fields: [title, date]
-#    field-display-names: 
-#        title: Title
-#        date: Date
-#    feed: true
-#    filter-ui: false
-
 format: 
   html:
     page-layout: full
@@ -30,7 +10,7 @@ format:
 
 We are a research cluster supported by the [Ken Kennedy Institute](https://kenkennedy.rice.edu/) at Rice University.
 
-![AI4ClimateRRR group photo, 2024-09-25](./_assets/img/2024-09-25-group.jpeg)
+![AI for Climate Risk and Urban Resilience group photo, 2024-09-25](./_assets/img/2024-09-25-group.jpeg)
 
 ## Team
 
@@ -77,3 +57,6 @@ Our initial pilot project focuses on real-time flood forecasting and transportat
 ### Sign up
 
 We invite the Rice community to join the [mailing list](https://groups.google.com/a/rice.edu/g/ai4climaterrr) to receive updates and announcements.
+
+:::
+:::
